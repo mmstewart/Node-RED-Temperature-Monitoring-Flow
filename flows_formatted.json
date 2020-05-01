@@ -72,7 +72,7 @@
         "id": "47b27619.7e2a08",
         "type": "snmp subtree",
         "z": "15152244.f6f86e",
-        "host": "172.x.x.x",
+        "host": "x.x.x.x",
         "community": "private",
         "version": "1",
         "oids": "1.3.6.1.4.1.20916.1.9.1.1.1.2",
@@ -149,16 +149,6 @@
         "complete": "false",
         "x": 2370,
         "y": 200,
-        "wires": []
-    },
-    {
-        "id": "a98fff03.44324",
-        "type": "comment",
-        "z": "15152244.f6f86e",
-        "name": "",
-        "info": "Works! Removing line because of testing interference",
-        "x": 2040,
-        "y": 240,
         "wires": []
     }
 ]

@@ -1,6 +1,6 @@
-# 
-
 <h1 align=center> Node-RED-Temperature-Monitoring-Flow </h1>
+
+This flow is recommeded for people who are using AVTECH Room Alert 3E.
 
 ## Author
 

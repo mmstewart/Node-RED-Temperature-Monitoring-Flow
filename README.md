@@ -6,7 +6,11 @@ In this flow, the user is able to receive email alerts if the temperature is abo
 
 ## Nodes
 
-Nodes used
+Nodes used:
+
+* [Email](https://flows.nodered.org/node/node-red-node-email)
+
+* [SNMP](https://flows.nodered.org/node/node-red-node-snmp)
 
 ## Author
 

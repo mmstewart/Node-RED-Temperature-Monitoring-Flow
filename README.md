@@ -1,6 +1,6 @@
-<h1 align=center> Node-RED-Temperature-Monitoring-Flow </h1>
+<h1 align=center> Node-RED Temperature Monitoring Flow </h1>
 
-This flow is recommeded for people who are using AVTECH Room Alert 3E.
+**This flow is recommeded for people who are using AVTECH Room Alert 3E.**
 
 This flow is used to monitor the temperature using AVTECH Room Alert Monitor. In this flow, the user is able to receive email alerts if the temperature is above the temperature threshold. In the debug console, it ouputs a decimal value that indicated the temperature of the Room Alert Monitor (e.g. 7163 = 71.63 in Fahrenheit).
 

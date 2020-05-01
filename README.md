@@ -1,6 +1,12 @@
 <h1 align=center> Node-RED-Temperature-Monitoring-Flow </h1>
 
-This flow is recommeded for people who are using AVTECH Room Alert 3E.
+This flow is recommeded for people who are using AVTECH Room Alert 3E
+
+In this flow, the user is able to receive email alerts if the temperature is above the threshold.
+
+## Nodes
+
+Nodes used
 
 ## Author
 

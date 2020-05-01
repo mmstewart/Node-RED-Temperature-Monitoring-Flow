@@ -4,7 +4,7 @@
 
 This flow is used to monitor the temperature using AVTECH Room Alert Monitor. In this flow, the user is able to receive email alerts if the temperature is above the temperature threshold. In the debug console, it ouputs a decimal value that indicated the temperature of the Room Alert Monitor (e.g. 7318 = 73.18 in Fahrenheit).
 
-<p align="center"> ![Capture](https://user-images.githubusercontent.com/36175538/80829611-18ce5580-8bad-11ea-8ef6-7504031d0b94.PNG) </p>
+![Capture](https://user-images.githubusercontent.com/36175538/80829611-18ce5580-8bad-11ea-8ef6-7504031d0b94.PNG)
 
 The user has to incoorporate their information in the **snmp subtree** and **email** node in order for the flow to work.
 
